@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#shell script that switch to another user 
+
+su betty
+
+/n
